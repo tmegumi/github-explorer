@@ -91,15 +91,15 @@ export const Repositories = styled.div`
       strong {
         color: #3d3d4d;
         display: block;
-        font-size: 24px;
-        line-height: 28px;
+        font-size: 22px;
+        line-height: 26px;
         margin-bottom: 4px;
       }
 
       p {
         color: #a8a8b3;
         font-size: 18px;
-        line-height: 21px;
+        line-height: 22px;
       }
     }
 
